@@ -1,4 +1,4 @@
-package i_introduction._0_Hello_World.Hello
+package i_introduction._0_Hello_World
 
 import junit.framework.Assert
 import org.junit.Test as test
