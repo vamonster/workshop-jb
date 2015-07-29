@@ -1,4 +1,4 @@
-package i_introduction._8_Extension_Functions.StringExtensions
+package i_introduction._8_Extension_Functions
 
 import util.TODO
 
